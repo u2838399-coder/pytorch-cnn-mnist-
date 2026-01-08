@@ -1,2 +1,2 @@
-# pytorch-cnn-mnist-
+# fashion-mnist-cnn
 Simple CNN using Python
